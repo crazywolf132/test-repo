@@ -1,2 +1,1 @@
-# test-repo
-Test repo for `stack` tool
+# TEST REPO
